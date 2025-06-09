@@ -14,7 +14,7 @@ This repository demonstrates how to use the GPT-2 tokenizer from OpenAI's `tikto
 
 .<br>
 ├── the-verdict.txt # Input text file<br>
-├── token-embedding.py # Python script to run the tokenizer + embedding
+├── token-embedding.py # Python script
 
 
 ## 🚀 Getting Started
